@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SFS: Official Website</title>
+	<link rel="icon" type="image/png" href="SFS_logo.png">
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+<img style="padding-left: 22%; padding-bottom: 25%; padding-right: 25%; height: 50%; width: 53%;" id="main" src="SFS_logo.png">
+	
+
+<div class="so1">
+	<h2 class="head">A World where everyone helps each other</h2>
+	<img style="height: 25%; width: 35%; padding-left: 31%;" src="untitled-2.png">
+	<p class="pass">Through this website we want to create a world where everyone is ready to help each other in every possible way. A world where sharing is caring</p>
+</div>
+<div class="so2">
+		<h2 class="head">A place where everyone has a common platform</h2>
+		<img style="height: 15%; width: 25%; padding-left: 37%; padding-bottom: 3%;" src="kisspng-teacher-computer-icons-education-teacher-vector-5adcd5a26d6567.8368286915244220504481.png">
+		<p class="pass">This website erases the boundary of years and semesters between seniors and juniors and make them collaborate at a same platform</p>
+</div>
+<div class="so3">
+		<a style="padding-bottom: 50px;" href="web1.html"><button style="cursor: pointer; border: none; font-size: 30px; margin-top: 35%; margin-left: 43%; background-color: #b3c523; color: white; padding: 10px 20px 10px 20px; border-radius: 10px;">Let's begin</button></a>
+</div>
+
+
+<button onclick="topFunction()" id="myBtn" title="Go to bottom"><img style="height: 120px; width: 80px;" src="arrow-vector-png-15.png"></button>
+
+
+<script>
+window.onscroll = function() {scrollFunction()};
+function scrollFunction() {
+  if (document.body.scrollTop < 2 || document.documentElement.scrollTop < 2) {
+    document.getElementById("myBtn").style.display = "block";
+  } else if(document.body.scrollTop > 2 || document.documentElement.scrollTop > 2) {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+function topFunction() {
+  document.body.scrollTop = 10000;
+  document.documentElement.scrollTop = 10000;
+}
+</script>
+</body>
+</html>

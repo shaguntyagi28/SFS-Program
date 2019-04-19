@@ -1,0 +1,27 @@
+body{
+	background-image: url('black-and-white-black-and-white-challenge-262488.jpg');
+	background-size: cover;
+}
+#sub{
+	padding: 10px 15px 10px 15px;
+	margin-left: 210px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+	background-color: black;
+	color: white;
+	font-size: 25px;
+}
+.h{
+	background-image: url('architecture-black-and-white-challenge-277593.jpg');
+	background-size: cover;
+}
+.foo{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.foo:hover{
+	text-decoration: underline;
+}

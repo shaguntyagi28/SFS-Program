@@ -1,0 +1,53 @@
+.h{
+	background-image: url('architecture-black-and-white-challenge-277593.jpg');
+	background-size: cover;
+}
+.foo{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+	margin-top: 4%;
+}
+.foo:hover{
+	text-decoration: underline;
+}
+.but{
+	background-color: white;
+	color: #191919;
+	font-size: 25px;
+	padding: 0px 15px 4px 15px;
+	border-radius: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.mb{
+	background-color: #717272;
+	height: 25px;
+	width: 25%;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	color: white;
+	text-decoration: none;
+}
+.t{
+	font-size: 25px;
+	cursor: pointer;
+}
+.pro{
+	background-color: #f6faf8;
+	width: 50%;
+	height: 50%;
+	margin-top: 7%;
+	margin-left: 24%;
+}
+.th{
+font-size: 25px;
+
+}
+.td{
+font-size: 20px;
+padding: 5px 10px 5px 10px;
+border: 1px solid grey;
+text-align: center;
+}

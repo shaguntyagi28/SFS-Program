@@ -1,0 +1,44 @@
+#main{
+	background-image: url('contemporary-gradient-handrails-434645.jpg');
+	background-size: 100%;
+}
+.head{
+	text-align: center;
+	font-size: 80px;
+	padding-left: 15%;
+	padding-right: 15%;
+	padding-top: 7%;
+}
+.pass{
+padding-left: 10%;
+padding-right: 10%;
+font-size: 30px;
+text-align: center;
+padding-bottom: 7%;
+}
+.so1{
+	background-image: url('4k-wallpaper-calm-waters-dark-1252869.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+.so2{
+	background-image: url('fog-foggy-hazy-89773.jpg');
+	background-size: cover;
+}
+.so3{
+	background-image: url('above-art-background-733852.jpg');
+	background-size: cover;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  color: white;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}

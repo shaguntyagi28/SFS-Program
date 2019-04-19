@@ -1,0 +1,43 @@
+body{
+	background-image: url('blank-branding-identity-business-cards-6372.png');
+	background-size: cover;
+}
+.di1{
+	margin-left: 700px;
+	margin-top: 175px;
+}
+.pa{
+	font-size: 55px;
+	text-decoration: underline;
+	margin-left: 60px;
+}
+.f{
+	margin-left: 35px;
+	font-size: 25px;
+	padding-top: 2px;
+}
+.butt{
+	font-size: 18px;
+	padding: 5px 10px 5px 10px;
+	margin-left: 140px;
+	background-color: #a1a1a1;
+	color: white;
+	font-weight: bold;
+}
+.fo{
+	padding: 3px 3px 3px 3px;
+}
+.h{
+	background-image: url('architecture-black-and-white-challenge-277593.jpg');
+	background-size: cover;
+}
+.foo{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.foo:hover{
+	text-decoration: underline;
+}
