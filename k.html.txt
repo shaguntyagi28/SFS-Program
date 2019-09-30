@@ -1,0 +1,9 @@
+<doctype !html>
+<html>
+<head>
+<h1>place your primary heading here</h1>
+</head>
+<body>
+<p>place your secondary heading here</p>
+</body>
+</html>
